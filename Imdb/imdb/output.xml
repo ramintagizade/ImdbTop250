@@ -1,0 +1,640 @@
+<?xml version="1.0" ?>
+<entries>
+	<entry>
+		<id>1</id>
+		<rating>9.2</rating>
+		<issue_date>14 October 1994</issue_date>
+		<popularity>81</popularity>
+		<title>The Shawshank Redemption</title>
+		<issue_country>USA</issue_country>
+		<metascore>80</metascore>
+		<genre>Drama</genre>
+		<directors>Frank Darabont</directors>
+		<stars>Tim Robbins,Morgan Freeman,Bob Gunton</stars>
+		<duration>2h 22min</duration>
+	</entry>
+	<entry>
+		<id>44</id>
+		<rating>8.5</rating>
+		<issue_date>September 1954</issue_date>
+		<popularity>1383</popularity>
+		<title>Rear Window</title>
+		<issue_country>USA</issue_country>
+		<metascore>100</metascore>
+		<genre>Mystery,Thriller</genre>
+		<directors>Alfred Hitchcock</directors>
+		<stars>James Stewart,Grace Kelly,Wendell Corey</stars>
+		<duration>1h 52min</duration>
+	</entry>
+	<entry>
+		<id>48</id>
+		<rating>8.5</rating>
+		<issue_date>20 October 2006</issue_date>
+		<popularity>394</popularity>
+		<title>The Prestige</title>
+		<issue_country>USA</issue_country>
+		<metascore>66</metascore>
+		<genre>Drama,Mystery,Sci-Fi</genre>
+		<directors>Christopher Nolan</directors>
+		<stars>Christian Bale,Hugh Jackman,Scarlett Johansson</stars>
+		<duration>2h 10min</duration>
+	</entry>
+	<entry>
+		<id>49</id>
+		<rating>8.4</rating>
+		<issue_date>15 August 1979</issue_date>
+		<popularity>449</popularity>
+		<title>Apocalypse Now</title>
+		<issue_country>USA</issue_country>
+		<metascore>94</metascore>
+		<genre>Drama,War</genre>
+		<directors>Francis Ford Coppola</directors>
+		<stars>Martin Sheen,Marlon Brando,Robert Duvall</stars>
+		<duration>2h 27min</duration>
+	</entry>
+	<entry>
+		<id>41</id>
+		<rating>8.5</rating>
+		<issue_date>3 July 1991</issue_date>
+		<popularity>674</popularity>
+		<title>Terminator 2: Judgment Day</title>
+		<issue_country>USA</issue_country>
+		<metascore>75</metascore>
+		<genre>Action,Sci-Fi</genre>
+		<directors>James Cameron</directors>
+		<stars>Arnold Schwarzenegger,Linda Hamilton,Edward Furlong</stars>
+		<duration>2h 17min</duration>
+	</entry>
+	<entry>
+		<id>47</id>
+		<rating>8.5</rating>
+		<issue_date>24 June 1994</issue_date>
+		<popularity>253</popularity>
+		<title>The Lion King</title>
+		<issue_country>USA</issue_country>
+		<metascore>83</metascore>
+		<genre>Animation,Adventure,Drama</genre>
+		<directors>Roger Allers', u'Rob Minkoff</directors>
+		<stars>Matthew Broderick,Jeremy Irons,James Earl Jones</stars>
+		<duration>1h 28min</duration>
+	</entry>
+	<entry>
+		<id>42</id>
+		<rating>8.5</rating>
+		<issue_date>3 July 1985</issue_date>
+		<popularity>320</popularity>
+		<title>Back to the Future</title>
+		<issue_country>USA</issue_country>
+		<metascore>87</metascore>
+		<genre>Adventure,Comedy,Sci-Fi</genre>
+		<directors>Robert Zemeckis</directors>
+		<stars>Michael J. Fox,Christopher Lloyd,Lea Thompson</stars>
+		<duration>1h 56min</duration>
+	</entry>
+	<entry>
+		<id>39</id>
+		<rating>8.5</rating>
+		<issue_date>28 March 2003</issue_date>
+		<popularity>665</popularity>
+		<title>The Pianist</title>
+		<issue_country>USA</issue_country>
+		<metascore>85</metascore>
+		<genre>Biography,Drama,Music</genre>
+		<directors>Roman Polanski</directors>
+		<stars>Adrien Brody,Thomas Kretschmann,Frank Finlay</stars>
+		<duration>2h 30min</duration>
+	</entry>
+	<entry>
+		<id>43</id>
+		<rating>8.5</rating>
+		<issue_date>15 October 2014</issue_date>
+		<popularity>333</popularity>
+		<title>Whiplash</title>
+		<issue_country>Philippines</issue_country>
+		<metascore>88</metascore>
+		<genre>Drama,Music</genre>
+		<directors>Damien Chazelle</directors>
+		<stars>Miles Teller,J.K. Simmons,Melissa Benoist</stars>
+		<duration>1h 46min</duration>
+	</entry>
+	<entry>
+		<id>46</id>
+		<rating>8.5</rating>
+		<issue_date>5 May 2000</issue_date>
+		<popularity>280</popularity>
+		<title>Gladiator</title>
+		<issue_country>USA</issue_country>
+		<metascore>67</metascore>
+		<genre>Action,Adventure,Drama</genre>
+		<directors>Ridley Scott</directors>
+		<stars>Russell Crowe,Joaquin Phoenix,Connie Nielsen</stars>
+		<duration>2h 35min</duration>
+	</entry>
+	<entry>
+		<id>38</id>
+		<rating>8.5</rating>
+		<issue_date>2 November 2011</issue_date>
+		<popularity>516</popularity>
+		<title>The Intouchables</title>
+		<issue_country>France</issue_country>
+		<metascore>57</metascore>
+		<genre>Biography,Comedy,Drama</genre>
+		<directors>Olivier Nakache', u'\xc9ric Toledano</directors>
+		<stars>François Cluzet,Omar Sy,Anne Le Ny</stars>
+		<duration>1h 52min</duration>
+	</entry>
+	<entry>
+		<id>45</id>
+		<rating>8.5</rating>
+		<issue_date>12 June 1981</issue_date>
+		<popularity>693</popularity>
+		<title>Raiders of the Lost Ark</title>
+		<issue_country>USA</issue_country>
+		<metascore>85</metascore>
+		<genre>Action,Adventure</genre>
+		<directors>Steven Spielberg</directors>
+		<stars>Harrison Ford,Karen Allen,Paul Freeman</stars>
+		<duration>1h 55min</duration>
+	</entry>
+	<entry>
+		<id>40</id>
+		<rating>8.5</rating>
+		<issue_date>6 October 2006</issue_date>
+		<popularity>289</popularity>
+		<title>The Departed</title>
+		<issue_country>USA</issue_country>
+		<metascore>85</metascore>
+		<genre>Crime,Drama,Thriller</genre>
+		<directors>Martin Scorsese</directors>
+		<stars>Leonardo DiCaprio,Matt Damon,Jack Nicholson</stars>
+		<duration>2h 31min</duration>
+	</entry>
+	<entry>
+		<id>37</id>
+		<rating>8.5</rating>
+		<issue_date>25 February 1936</issue_date>
+		<popularity>3719</popularity>
+		<title>Modern Times</title>
+		<issue_country>USA</issue_country>
+		<metascore>96</metascore>
+		<genre>Comedy,Drama,Family</genre>
+		<directors>Charles Chaplin</directors>
+		<stars>Charles Chaplin,Paulette Goddard,Henry Bergman</stars>
+		<duration>1h 27min</duration>
+	</entry>
+	<entry>
+		<id>34</id>
+		<rating>8.5</rating>
+		<issue_date>7 March 1931</issue_date>
+		<popularity>4136</popularity>
+		<title>City Lights</title>
+		<issue_country>USA</issue_country>
+		<metascore/>
+		<genre>Comedy,Drama,Romance</genre>
+		<directors>Charles Chaplin</directors>
+		<stars>Charles Chaplin,Virginia Cherrill,Florence Lee</stars>
+		<duration>1h 27min</duration>
+	</entry>
+	<entry>
+		<id>31</id>
+		<rating>8.5</rating>
+		<issue_date>7 November 2014</issue_date>
+		<popularity>94</popularity>
+		<title>Interstellar</title>
+		<issue_country>USA</issue_country>
+		<metascore>74</metascore>
+		<genre>Adventure,Drama,Sci-Fi</genre>
+		<directors>Christopher Nolan</directors>
+		<stars>Matthew McConaughey,Anne Hathaway,Jessica Chastain</stars>
+		<duration>2h 49min</duration>
+	</entry>
+	<entry>
+		<id>36</id>
+		<rating>8.5</rating>
+		<issue_date>23 January 1943</issue_date>
+		<popularity>834</popularity>
+		<title>Casablanca</title>
+		<issue_country>USA</issue_country>
+		<metascore>100</metascore>
+		<genre>Drama,Romance,War</genre>
+		<directors>Michael Curtiz</directors>
+		<stars>Humphrey Bogart,Ingrid Bergman,Paul Henreid</stars>
+		<duration>1h 42min</duration>
+	</entry>
+	<entry>
+		<id>32</id>
+		<rating>8.5</rating>
+		<issue_date>8 September 1960</issue_date>
+		<popularity>446</popularity>
+		<title>Psycho</title>
+		<issue_country>USA</issue_country>
+		<metascore>97</metascore>
+		<genre>Horror,Mystery,Thriller</genre>
+		<directors>Alfred Hitchcock</directors>
+		<stars>Anthony Perkins,Janet Leigh,Vera Miles</stars>
+		<duration>1h 49min</duration>
+	</entry>
+	<entry>
+		<id>35</id>
+		<rating>8.5</rating>
+		<issue_date>4 July 1969</issue_date>
+		<popularity>869</popularity>
+		<title>Once Upon a Time in the West</title>
+		<issue_country>USA</issue_country>
+		<metascore>80</metascore>
+		<genre>Western</genre>
+		<directors>Sergio Leone</directors>
+		<stars>Henry Fonda,Charles Bronson,Claudia Cardinale</stars>
+		<duration>2h 45min</duration>
+	</entry>
+	<entry>
+		<id>33</id>
+		<rating>8.5</rating>
+		<issue_date>20 November 1998</issue_date>
+		<popularity>344</popularity>
+		<title>American History X</title>
+		<issue_country>USA</issue_country>
+		<metascore>62</metascore>
+		<genre>Crime,Drama</genre>
+		<directors>Tony Kaye</directors>
+		<stars>Edward Norton,Edward Furlong,Beverly D'Angelo</stars>
+		<duration>1h 59min</duration>
+	</entry>
+	<entry>
+		<id>30</id>
+		<rating>8.5</rating>
+		<issue_date>10 December 1999</issue_date>
+		<popularity>310</popularity>
+		<title>The Green Mile</title>
+		<issue_country>USA</issue_country>
+		<metascore>61</metascore>
+		<genre>Crime,Drama,Fantasy</genre>
+		<directors>Frank Darabont</directors>
+		<stars>Tom Hanks,Michael Clarke Duncan,David Morse</stars>
+		<duration>3h 9min</duration>
+	</entry>
+	<entry>
+		<id>26</id>
+		<rating>8.5</rating>
+		<issue_date>15 September 1995</issue_date>
+		<popularity>372</popularity>
+		<title>The Usual Suspects</title>
+		<issue_country>USA</issue_country>
+		<metascore>77</metascore>
+		<genre>Crime,Mystery,Thriller</genre>
+		<directors>Bryan Singer</directors>
+		<stars>Kevin Spacey,Gabriel Byrne,Chazz Palminteri</stars>
+		<duration>1h 46min</duration>
+	</entry>
+	<entry>
+		<id>23</id>
+		<rating>8.6</rating>
+		<issue_date>14 February 1991</issue_date>
+		<popularity>271</popularity>
+		<title>The Silence of the Lambs</title>
+		<issue_country>USA</issue_country>
+		<metascore>85</metascore>
+		<genre>Crime,Drama,Thriller</genre>
+		<directors>Jonathan Demme</directors>
+		<stars>Jodie Foster,Anthony Hopkins,Lawrence A. Bonney</stars>
+		<duration>1h 58min</duration>
+	</entry>
+	<entry>
+		<id>24</id>
+		<rating>8.6</rating>
+		<issue_date>7 January 1947</issue_date>
+		<popularity>515</popularity>
+		<title>It's a Wonderful Life</title>
+		<issue_country>USA</issue_country>
+		<metascore>89</metascore>
+		<genre>Drama,Family,Fantasy</genre>
+		<directors>Frank Capra</directors>
+		<stars>James Stewart,Donna Reed,Lionel Barrymore</stars>
+		<duration>2h 10min</duration>
+	</entry>
+	<entry>
+		<id>25</id>
+		<rating>8.6</rating>
+		<issue_date>12 February 1999</issue_date>
+		<popularity>756</popularity>
+		<title>Life Is Beautiful</title>
+		<issue_country>USA</issue_country>
+		<metascore>59</metascore>
+		<genre>Comedy,Drama,Romance</genre>
+		<directors>Roberto Benigni</directors>
+		<stars>Roberto Benigni,Nicoletta Braschi,Giorgio Cantarini</stars>
+		<duration>1h 56min</duration>
+	</entry>
+	<entry>
+		<id>27</id>
+		<rating>8.5</rating>
+		<issue_date>28 March 2003</issue_date>
+		<popularity>634</popularity>
+		<title>Spirited Away</title>
+		<issue_country>USA</issue_country>
+		<metascore>96</metascore>
+		<genre>Animation,Adventure,Family</genre>
+		<directors>Hayao Miyazaki', u'Kirk Wise</directors>
+		<stars>Daveigh Chase,Suzanne Pleshette,Miyu Irino</stars>
+		<duration>2h 5min</duration>
+	</entry>
+	<entry>
+		<id>21</id>
+		<rating>8.6</rating>
+		<issue_date>22 September 1995</issue_date>
+		<popularity>319</popularity>
+		<title>Se7en</title>
+		<issue_country>USA</issue_country>
+		<metascore>65</metascore>
+		<genre>Crime,Drama,Mystery</genre>
+		<directors>David Fincher</directors>
+		<stars>Morgan Freeman,Brad Pitt,Kevin Spacey</stars>
+		<duration>2h 7min</duration>
+	</entry>
+	<entry>
+		<id>22</id>
+		<rating>8.6</rating>
+		<issue_date>25 May 1977</issue_date>
+		<popularity>464</popularity>
+		<title>Star Wars: Episode IV - A New Hope</title>
+		<issue_country>USA</issue_country>
+		<metascore>90</metascore>
+		<genre>Action,Adventure,Fantasy</genre>
+		<directors>George Lucas</directors>
+		<stars>Mark Hamill,Harrison Ford,Carrie Fisher</stars>
+		<duration>2h 1min</duration>
+	</entry>
+	<entry>
+		<id>28</id>
+		<rating>8.5</rating>
+		<issue_date>24 July 1998</issue_date>
+		<popularity>204</popularity>
+		<title>Saving Private Ryan</title>
+		<issue_country>USA</issue_country>
+		<metascore>90</metascore>
+		<genre>Drama,War</genre>
+		<directors>Steven Spielberg</directors>
+		<stars>Tom Hanks,Matt Damon,Tom Sizemore</stars>
+		<duration>2h 49min</duration>
+	</entry>
+	<entry>
+		<id>16</id>
+		<rating>8.7</rating>
+		<issue_date>19 November 1975</issue_date>
+		<popularity>297</popularity>
+		<title>One Flew Over the Cuckoo's Nest</title>
+		<issue_country>USA</issue_country>
+		<metascore>80</metascore>
+		<genre>Drama</genre>
+		<directors>Milos Forman</directors>
+		<stars>Jack Nicholson,Louise Fletcher,Will Sampson</stars>
+		<duration>2h 13min</duration>
+	</entry>
+	<entry>
+		<id>18</id>
+		<rating>8.6</rating>
+		<issue_date>31 March 1999</issue_date>
+		<popularity>272</popularity>
+		<title>The Matrix</title>
+		<issue_country>USA</issue_country>
+		<metascore>73</metascore>
+		<genre>Action,Sci-Fi</genre>
+		<directors>Lana Wachowski', u'Lilly Wachowski</directors>
+		<stars>Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss</stars>
+		<duration>2h 16min</duration>
+	</entry>
+	<entry>
+		<id>20</id>
+		<rating>8.6</rating>
+		<issue_date>13 February 2004</issue_date>
+		<popularity>680</popularity>
+		<title>City of God</title>
+		<issue_country>USA</issue_country>
+		<metascore>79</metascore>
+		<genre>Crime,Drama</genre>
+		<directors>Fernando Meirelles', u'K\xe1tia Lund</directors>
+		<stars>Alexandre Rodrigues,Leandro Firmino,Matheus Nachtergaele</stars>
+		<duration>2h 10min</duration>
+	</entry>
+	<entry>
+		<id>17</id>
+		<rating>8.7</rating>
+		<issue_date>21 September 1990</issue_date>
+		<popularity>264</popularity>
+		<title>Goodfellas</title>
+		<issue_country>USA</issue_country>
+		<metascore>89</metascore>
+		<genre>Crime,Drama</genre>
+		<directors>Martin Scorsese</directors>
+		<stars>Robert De Niro,Ray Liotta,Joe Pesci</stars>
+		<duration>2h 26min</duration>
+	</entry>
+	<entry>
+		<id>19</id>
+		<rating>8.6</rating>
+		<issue_date>19 November 1956</issue_date>
+		<popularity>1144</popularity>
+		<title>Seven Samurai</title>
+		<issue_country>USA</issue_country>
+		<metascore>98</metascore>
+		<genre>Adventure,Drama</genre>
+		<directors>Akira Kurosawa</directors>
+		<stars>Toshirô Mifune,Takashi Shimura,Keiko Tsushima</stars>
+		<duration>3h 27min</duration>
+	</entry>
+	<entry>
+		<id>15</id>
+		<rating>8.7</rating>
+		<issue_date>18 December 2002</issue_date>
+		<popularity>406</popularity>
+		<title>The Lord of the Rings: The Two Towers</title>
+		<issue_country>USA</issue_country>
+		<metascore>87</metascore>
+		<genre>Adventure,Drama,Fantasy</genre>
+		<directors>Peter Jackson</directors>
+		<stars>Elijah Wood,Ian McKellen,Viggo Mortensen</stars>
+		<duration>2h 59min</duration>
+	</entry>
+	<entry>
+		<id>9</id>
+		<rating>8.8</rating>
+		<issue_date>29 December 1967</issue_date>
+		<popularity>343</popularity>
+		<title>The Good, the Bad and the Ugly</title>
+		<issue_country>USA</issue_country>
+		<metascore>90</metascore>
+		<genre>Western</genre>
+		<directors>Sergio Leone</directors>
+		<stars>Clint Eastwood,Eli Wallach,Lee Van Cleef</stars>
+		<duration>2h 58min</duration>
+	</entry>
+	<entry>
+		<id>13</id>
+		<rating>8.7</rating>
+		<issue_date>20 June 1980</issue_date>
+		<popularity>1077</popularity>
+		<title>Star Wars: Episode V - The Empire Strikes Back</title>
+		<issue_country>USA</issue_country>
+		<metascore>82</metascore>
+		<genre>Action,Adventure,Fantasy</genre>
+		<directors>Irvin Kershner</directors>
+		<stars>Mark Hamill,Harrison Ford,Carrie Fisher</stars>
+		<duration>2h 4min</duration>
+	</entry>
+	<entry>
+		<id>12</id>
+		<rating>8.7</rating>
+		<issue_date>6 July 1994</issue_date>
+		<popularity>256</popularity>
+		<title>Forrest Gump</title>
+		<issue_country>USA</issue_country>
+		<metascore>82</metascore>
+		<genre>Drama,Romance</genre>
+		<directors>Robert Zemeckis</directors>
+		<stars>Tom Hanks,Robin Wright,Gary Sinise</stars>
+		<duration>2h 22min</duration>
+	</entry>
+	<entry>
+		<id>10</id>
+		<rating>8.8</rating>
+		<issue_date>15 October 1999</issue_date>
+		<popularity>303</popularity>
+		<title>Fight Club</title>
+		<issue_country>USA</issue_country>
+		<metascore>66</metascore>
+		<genre>Drama</genre>
+		<directors>David Fincher</directors>
+		<stars>Brad Pitt,Edward Norton,Meat Loaf</stars>
+		<duration>2h 19min</duration>
+	</entry>
+	<entry>
+		<id>8</id>
+		<rating>8.9</rating>
+		<issue_date>14 October 1994</issue_date>
+		<popularity>161</popularity>
+		<title>Pulp Fiction</title>
+		<issue_country>USA</issue_country>
+		<metascore>94</metascore>
+		<genre>Crime,Drama</genre>
+		<directors>Quentin Tarantino</directors>
+		<stars>John Travolta,Uma Thurman,Samuel L. Jackson</stars>
+		<duration>2h 34min</duration>
+	</entry>
+	<entry>
+		<id>14</id>
+		<rating>8.7</rating>
+		<issue_date>16 July 2010</issue_date>
+		<popularity>160</popularity>
+		<title>Inception</title>
+		<issue_country>USA</issue_country>
+		<metascore>74</metascore>
+		<genre>Action,Adventure,Sci-Fi</genre>
+		<directors>Christopher Nolan</directors>
+		<stars>Leonardo DiCaprio,Joseph Gordon-Levitt,Ellen Page</stars>
+		<duration>2h 28min</duration>
+	</entry>
+	<entry>
+		<id>11</id>
+		<rating>8.8</rating>
+		<issue_date>19 December 2001</issue_date>
+		<popularity>132</popularity>
+		<title>The Lord of the Rings: The Fellowship of the Ring</title>
+		<issue_country>USA</issue_country>
+		<metascore>92</metascore>
+		<genre>Adventure,Drama,Fantasy</genre>
+		<directors>Peter Jackson</directors>
+		<stars>Elijah Wood,Ian McKellen,Orlando Bloom</stars>
+		<duration>2h 58min</duration>
+	</entry>
+	<entry>
+		<id>7</id>
+		<rating>8.9</rating>
+		<issue_date>17 December 2003</issue_date>
+		<popularity>241</popularity>
+		<title>The Lord of the Rings: The Return of the King</title>
+		<issue_country>USA</issue_country>
+		<metascore>94</metascore>
+		<genre>Action,Adventure,Drama</genre>
+		<directors>Peter Jackson</directors>
+		<stars>Elijah Wood,Viggo Mortensen,Ian McKellen</stars>
+		<duration>3h 21min</duration>
+	</entry>
+	<entry>
+		<id>29</id>
+		<rating>8.5</rating>
+		<issue_date>18 November 1994</issue_date>
+		<popularity>294</popularity>
+		<title>Léon: The Professional</title>
+		<issue_country>USA</issue_country>
+		<metascore>64</metascore>
+		<genre>Crime,Drama,Thriller</genre>
+		<directors>Luc Besson</directors>
+		<stars>Jean Reno,Gary Oldman,Natalie Portman</stars>
+		<duration>1h 50min</duration>
+	</entry>
+	<entry>
+		<id>5</id>
+		<rating>8.9</rating>
+		<issue_date>April 1957</issue_date>
+		<popularity>455</popularity>
+		<title>12 Angry Men</title>
+		<issue_country>USA</issue_country>
+		<metascore>96</metascore>
+		<genre>Crime,Drama</genre>
+		<directors>Sidney Lumet</directors>
+		<stars>Henry Fonda,Lee J. Cobb,Martin Balsam</stars>
+		<duration>1h 36min</duration>
+	</entry>
+	<entry>
+		<id>4</id>
+		<rating>9.0</rating>
+		<issue_date>18 July 2008</issue_date>
+		<popularity>125</popularity>
+		<title>The Dark Knight</title>
+		<issue_country>USA</issue_country>
+		<metascore>84</metascore>
+		<genre>Action,Crime,Drama</genre>
+		<directors>Christopher Nolan</directors>
+		<stars>Christian Bale,Heath Ledger,Aaron Eckhart</stars>
+		<duration>2h 32min</duration>
+	</entry>
+	<entry>
+		<id>3</id>
+		<rating>9.0</rating>
+		<issue_date>20 December 1974</issue_date>
+		<popularity>501</popularity>
+		<title>The Godfather: Part II</title>
+		<issue_country>USA</issue_country>
+		<metascore>90</metascore>
+		<genre>Crime,Drama</genre>
+		<directors>Francis Ford Coppola</directors>
+		<stars>Al Pacino,Robert De Niro,Robert Duvall</stars>
+		<duration>3h 22min</duration>
+	</entry>
+	<entry>
+		<id>6</id>
+		<rating>8.9</rating>
+		<issue_date>4 February 1994</issue_date>
+		<popularity>225</popularity>
+		<title>Schindler's List</title>
+		<issue_country>USA</issue_country>
+		<metascore>93</metascore>
+		<genre>Biography,Drama,History</genre>
+		<directors>Steven Spielberg</directors>
+		<stars>Liam Neeson,Ralph Fiennes,Ben Kingsley</stars>
+		<duration>3h 15min</duration>
+	</entry>
+	<entry>
+		<id>2</id>
+		<rating>9.2</rating>
+		<issue_date>24 March 1972</issue_date>
+		<popularity>116</popularity>
+		<title>The Godfather</title>
+		<issue_country>USA</issue_country>
+		<metascore>100</metascore>
+		<genre>Crime,Drama</genre>
+		<directors>Francis Ford Coppola</directors>
+		<stars>Marlon Brando,Al Pacino,James Caan</stars>
+		<duration>2h 55min</duration>
+	</entry>
+</entries>
