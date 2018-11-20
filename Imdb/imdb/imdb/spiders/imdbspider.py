@@ -6,11 +6,17 @@ from xml.dom import minidom
 import io
 from scrapy.http import HtmlResponse
 import logging
+from scrapy import Spider
+from scrapy import signals
+from scrapy.xlib.pydispatch import dispatcher
 
 class ImdbSpider(scrapy.Spider) :
     name = "imdbspider"
     allowed_domains = ["imdb.com"]
     start_urls = "https://www.imdb.com/chart/top"
+
+    def __init__(self) :
+        dispatcher.connect(self.spider_closed, signals.spider_closed)
 
     def start_requests(self):
         
@@ -29,13 +35,10 @@ class ImdbSpider(scrapy.Spider) :
                 self.ids = self.ids  + 1
                 #if (self.ids == 50):
                 #    break
-                yield scrapy.Request("https://www.imdb.com" + url, callback=self.parse_details,errback=self.errback,dont_filter=True,meta={'itemId': self.ids-1})
+                yield scrapy.Request("https://www.imdb.com" + url, callback=self.parse_details,dont_filter=True,meta={'itemId': self.ids-1})
 
-        self.ids = 0       
+        self.ids = 0   
         yield self.imdb
-    
-    def errback(self,failure) :
-         self.log("ERROR --------------------------------------------" +str(failure))
 
     def parse_details(self,response) :
         
@@ -61,7 +64,6 @@ class ImdbSpider(scrapy.Spider) :
             self.imdb["id"] = []
             self.imdb["title"] = []
             self.imdb["rating"] = []
-
             self.imdb["duration"] = []
             self.imdb["genre"] = []
             self.imdb["issue_date"] = []
@@ -77,7 +79,6 @@ class ImdbSpider(scrapy.Spider) :
         self.imdb["id"].append(self.items["id"][itemId])
         self.imdb["title"].append(self.items["title"][itemId])
         self.imdb["rating"].append(self.items["rating"][itemId])
-
         self.imdb["duration"].append(str(duration))
         self.imdb["genre"].append(str(genre))
         self.imdb["issue_date"].append(str(issue_date))
@@ -86,30 +87,7 @@ class ImdbSpider(scrapy.Spider) :
         self.imdb["stars"].append(",".join(x for x in stars ))
         self.imdb["metascore"].append(str(metascore))
         self.imdb["popularity"].append(str(popularity))
-        
-
-        self.ids = self.ids + 1
-       
-        if self.ids == 249 :
-          
-            data = ET.Element('entries')  
-            for i in range(249) :
-                entry = ET.SubElement(data, 'entry')
-                itemId = ET.SubElement(entry,"id") 
-                for k in self.imdb.keys():
-                    
-                    if k == "id" :
-                        item = itemId
-                    else :
-                        item = ET.SubElement(entry, k)   
-                    s =  self.imdb[k][i].strip()
-                    item.text  = s.strip("[]").strip("\n\t\r").lstrip("\n").rstrip("\n").strip("u'\n ").strip("'")
-
-          
-            mydata = minidom.parseString(ET.tostring(data)).toprettyxml()
-            myfile = io.open("output.xml", "w",encoding='utf8') 
-            myfile.write(mydata)  
-           
+            
         yield self.imdb
         
     def movie_entity(self , response) :
@@ -123,3 +101,24 @@ class ImdbSpider(scrapy.Spider) :
         self.items["id"] = self.imdb["id"]
         self.items["title"] = self.imdb["title"]
         self.items["rating"] = self.imdb["rating"]
+
+    def spider_closed(self, spider):
+        logging.info('Spider closed: %s', spider.name)
+        data = ET.Element('entries')  
+        for i in range(249) :
+            entry = ET.SubElement(data, 'entry')
+            itemId = ET.SubElement(entry,"id") 
+            for k in self.imdb.keys():
+                    
+                if k == "id" :
+                    item = itemId
+                else :
+                    item = ET.SubElement(entry, k)   
+                s =  self.imdb[k][i].strip()
+                item.text  = s.strip("[]").strip("\n\t\r").lstrip("\n").rstrip("\n").strip("u'\n ").strip("'")
+
+            mydata = minidom.parseString(ET.tostring(data)).toprettyxml()
+            myfile = io.open("output.xml", "w",encoding='utf8') 
+            myfile.write(mydata)  
+        
+        logging.info("output xml finished")
